@@ -1,0 +1,26 @@
+@mixin transition($s , $effect){
+	-webkit-transition:all $s $effect;
+	-o-transition:all $s $effect;
+	transition:all $s $effect;
+}
+@mixin translate($x,$y){
+	-webkit-transform: translate($x, $y);
+	-ms-transform: translate($x, $y);
+	transform: translate($x, $y);
+}
+@mixin paddingY($padd){
+	padding-top: $padd !important;
+    padding-bottom: $padd !important;
+}
+
+@mixin paddingX($padd){
+	padding-left: $padd !important;
+    padding-right: $padd !important;
+}
+@mixin border($width, $color){
+	border: $width solid $color;
+}
+@mixin marginX($margin){
+	padding-left: $margin !important;
+    padding-right: $margin !important;
+}
