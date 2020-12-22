@@ -1,0 +1,458 @@
+@media (max-width: 1399px){
+	.slider-section .carousel .carousel-inner .carousel-item .carousel-caption p {
+    font-size: 50px;
+	}
+	.slider-section .carousel .carousel-inner .carousel-item .carousel-caption h5 {
+    font-size: 60px;
+	}
+	.slider-section .carousel .carousel-inner .carousel-item .carousel-caption .btn-custom {
+    font-size: 16px;
+    padding-left: 35px !important;
+    padding-right: 35px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+	}
+	.navbar-nav .nav-item .nav-link {
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+}
+.heading {
+    text-align: center;
+    padding-bottom: 50px;
+}
+p {
+    font-size: 15px;
+}
+.aboutme-section .aboutme-content {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+ }
+ .progress {
+    height: 12px;
+}
+.aboutme-section .aboutme-content ul {
+    padding-top: 10px;
+}
+.aboutme-content .heading h1{
+	font-size: 30px;
+}
+.aboutme-content .heading{
+	padding-bottom: 25px;
+}
+section {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+.service-section .service h2 {
+    font-size: 20px;
+    margin: 20px 0;
+}
+.service-section .service {
+    padding-top: 25px !important;
+    padding-bottom: 25px !important;
+    }
+.service-section .service p {
+    font-size: 16px;
+}
+.statistic-section .statistic h3 {
+    font-size: 35px;
+    }
+.statistic-section .statistic h2 {
+    font-size: 22px;
+	}
+.statistic-section .statistic i {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.mywork-section .heading {
+    padding-bottom: 30px;
+}
+.mywork-section .container .nav {
+    margin-bottom: 30px;
+}
+.story-section{
+    padding-top: 30px !important;
+    padding-bottom: 70px !important;
+}
+
+.lifestory-section .lifestory-content {
+    margin-left: 0px;
+}
+.lifestory-section .heading {
+    padding-bottom: 60px;
+}
+.lifestory-section .heading h1 {
+    font-size: 40px;
+ } 
+.clientsfeedback-section {
+    padding-top: 75px !important;
+    padding-bottom: 75px !important;
+}
+.getintouch-section .btn-custom{
+    font-size: 16px;
+    padding-left: 35px !important;
+    padding-right: 35px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+
+
+
+}
+@media (max-width: 1199px){
+	.header-section .navbar-nav .nav-item {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+    }
+    
+    .navbar-expand-lg .navbar-collapse {
+     padding-right: 15px;
+    }
+    .slider-section .carousel .carousel-inner .carousel-item .carousel-caption p {
+     font-size: 40px;
+    }
+    .slider-section .carousel .carousel-inner .carousel-item .carousel-caption h5 {
+    font-size: 51px;
+    }
+    .carousel-item img{
+    height: 550px;
+    object-fit: cover;
+    }
+
+.aboutme-section .row{
+    align-items: center;
+}
+.story-section .story-content {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+.lifestory-section .heading h1 {
+    font-size: 30px;
+}
+.lifestory-section .heading {
+    padding-bottom: 20px;
+}
+.lifestory-section .row{
+    align-items: center;
+}
+.clientsfeedback-section .feedback-content {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    margin-bottom: 30px;
+}
+.tweet-section p {
+    font-size: 15px;
+    }
+.footer-section {
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+    }
+}
+
+@media (max-width: 991px){
+    .navbar-nav {
+    flex-direction: row;
+    justify-content: center;
+    }
+    .dropdown {
+    display: none;
+}
+.header-section nav {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    }
+ .slider-section .carousel .carousel-inner .carousel-item .carousel-caption p {
+    font-size: 30px;
+}	
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption h5 {
+    font-size: 45px;
+    }
+    .slider-section .carousel .carousel-inner .carousel-item .carousel-caption .btn-custom {
+    font-size: 15px;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+    }
+    .carousel-item img {
+    height: 400px;
+    object-fit: cover;
+    }
+    .aboutme-content .heading h1 {
+        font-size: 43px;
+    }
+    .aboutme-img{
+        margin-top: 40px;
+    }
+    .service-section .service h2 {
+    font-size: 18px;
+    margin: 15px 0;
+    }
+    .service-section .service p {
+    font-size: 14px;
+    }
+    .service-section .service {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+    .statistic-section .statistic i {
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    }
+    .mywork-section .container .nav .btn {
+    padding: 10px 15px;
+    font-size: 16px;
+}
+.work a i {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 14px;
+    }
+.work .box-content h5 {
+    font-size: 15px;
+    font-weight: 400;
+}
+    .work .box-content p {
+     font-size: 12px;
+    }
+    .work .box-content {
+    padding-left: 3px !important;
+    padding-right: 3px !important;
+    padding-top: 3px !important;
+    padding-bottom: 3px !important;
+    }
+    .story-section .story-content span {
+    font-size: 15px;
+    }
+    .story-section .story-content h5 {
+    font-size: 14px;
+    font-weight: 600;
+    }
+    .story-section .story-content p {
+    font-size: 13px;
+    }
+    .story-section .story-content a {
+    font-size: 12px;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+.story-section .story-content {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+.lifestory-section .lifestory-img {
+    padding-bottom: 30px;
+}
+.getintouch-section p {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    font-size: 15px;
+    font-weight: 500;
+    padding-bottom: 25px;
+}
+.row .mb-5 {
+    margin-bottom: 2rem!important;
+}
+.getintouch-section label {
+    padding-bottom: 5px !important;
+    }
+.address-section .address {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    padding-top: 25px !important;
+    padding-bottom: 25px !important;
+}
+
+
+}
+
+@media (max-width: 767px){ 
+    .slider-section .carousel .carousel-inner .carousel-item .carousel-caption h5 {
+    font-size: 30px;
+}
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption p {
+    font-size: 20px;
+}
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption .btn-custom {
+    font-size: 13px;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+.getintouch-section .btn-custom {
+    font-size: 13px;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+}
+.address-section .address {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+.address p {
+    font-size: 13px;
+}
+section {
+    padding-top: 0px !important;
+    padding-bottom: 30px !important;
+}
+.footer-section {
+    padding-top: 25px !important;
+    padding-bottom: 25px !important;
+}
+
+.mywork-section .container .nav .btn {
+    padding: 8px 8px;
+    font-size: 15px;
+}
+.work .box-content p {
+    font-size: 8px;
+}
+.work .box-content h5 {
+    font-size: 10px;
+}
+.work a i {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 10px;
+}
+.row>* {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+ }
+
+@media (max-width: 575px){
+	.navbar-nav {
+    flex-direction: column;
+    align-items: center;
+}
+.heading h1 {
+    font-size: 30px;
+    }
+.aboutme-content .heading h1 {
+    font-size: 30px;
+}
+.header-section .navbar-nav .nav-item .nav-link {
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption {
+    text-align: center;
+}
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption h5 {
+    font-size: 28px;
+}
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption p {
+    font-size: 18px;
+}
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption .btn-custom {
+    font-size: 13px;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+.nav .text-right {
+    padding-left: 30px !important;
+    }
+.statistic-section .statistic h3 {
+    font-size: 25px;
+}
+.statistic-section .statistic h2 {
+    font-size: 15px;
+}
+.statistic-section .statistic i {
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+}
+.mywork-section .container .nav .btn {
+    padding: 7px 7px;
+    font-size: 14px;
+}
+.work .box-content p {
+    font-size: 7px;
+}
+.work .box-content h5 {
+    font-size: 10px;
+}
+.work a i {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 8px;
+}
+.row>* {
+    padding-right: 3px;
+    padding-left: 3px;
+}
+section {
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+}
+.lifestory-section .lifestory-content p {
+    font-size: 13px;
+}
+.clientsfeedback-section .feedback-content h6 {
+    font-size: 15px;
+    }
+.clientsfeedback-section .feedback-content p {
+    font-size: 13px;
+}
+.clientsfeedback-section .feedback-content {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    margin-bottom: 20px;
+}
+.tweet-section p {
+    font-size: 12px;
+}
+.getintouch-section .btn-custom {
+    font-size: 13px;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+.address p {
+    font-size: 10px;
+}
+.address-section .address {
+    padding-left: 6px !important;
+    padding-right: 6px !important;
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+}
+.footer-section {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+.footer-section p {
+    font-size: 14px;
+    }
+    section {
+    padding-top: 0px !important;
+    padding-bottom: 30px !important;
+}
+}
+
+@media (max-width: 320px){
+	
+}
